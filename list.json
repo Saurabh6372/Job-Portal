@@ -1,0 +1,173 @@
+[
+    {
+      "title": "Frontend Developer",
+      "description": "Frontend",
+      "requirements": ["HTML", "CSS", "JavaScript", "React"],
+      "salary": 4,
+      "experienceLevel": 0,
+      "location": "Vadodara",
+      "jobType": "Freshers",
+      "positions": 10,
+      "company": "ObjectId('67ce76e6fa14c84bd3db7bf1')",
+      "created_by": "ObjectId('67ce75537489b4c86718a3ec')"
+    },
+    {
+      "title": "Backend Developer",
+      "description": "Backend",
+      "requirements": ["Node.js", "Express.js", "MongoDB"],
+      "salary": 5,
+      "experienceLevel": 1,
+      "location": "Ahmedabad",
+      "jobType": "Experienced",
+      "positions": 8,
+      "company": "ObjectId('67ce76e6fa14c84bd3db7bf2')",
+      "created_by": "ObjectId('67ce75537489b4c86718a3ec')"
+    },
+    {
+      "title": "Full Stack Developer",
+      "description": "Full Stack",
+      "requirements": ["React", "Node.js", "MongoDB", "AWS"],
+      "salary": 6,
+      "experienceLevel": 2,
+      "location": "Mumbai",
+      "jobType": "Experienced",
+      "positions": 12,
+      "company": "ObjectId('67ce76e6fa14c84bd3db7bf3')",
+      "created_by": "ObjectId('67ce75537489b4c86718a3ec')"
+    },
+    {
+      "title": "UI/UX Designer",
+      "description": "Design",
+      "requirements": ["Figma", "Adobe XD", "Photoshop"],
+      "salary": 4,
+      "experienceLevel": 1,
+      "location": "Bangalore",
+      "jobType": "Freshers",
+      "positions": 6,
+      "company": "ObjectId('67ce76e6fa14c84bd3db7bf4')",
+      "created_by": "ObjectId('67ce75537489b4c86718a3ec')"
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Data Analysis",
+      "requirements": ["Python", "TensorFlow", "Machine Learning"],
+      "salary": 7,
+      "experienceLevel": 3,
+      "location": "Delhi",
+      "jobType": "Experienced",
+      "positions": 5,
+      "company": "ObjectId('67ce76e6fa14c84bd3db7bf5')",
+      "created_by": "ObjectId('67ce75537489b4c86718a3ec')"
+    },
+    {
+      "title": "Cloud Engineer",
+      "description": "Cloud Computing",
+      "requirements": ["AWS", "Azure", "Docker", "Kubernetes"],
+      "salary": 8,
+      "experienceLevel": 3,
+      "location": "Hyderabad",
+      "jobType": "Experienced",
+      "positions": 7,
+      "company": "ObjectId('67ce76e6fa14c84bd3db7bf6')",
+      "created_by": "ObjectId('67ce75537489b4c86718a3ec')"
+    },
+    {
+      "title": "DevOps Engineer",
+      "description": "DevOps",
+      "requirements": ["Jenkins", "Ansible", "Terraform", "AWS"],
+      "salary": 7,
+      "experienceLevel": 2,
+      "location": "Chennai",
+      "jobType": "Experienced",
+      "positions": 9,
+      "company": "ObjectId('67ce76e6fa14c84bd3db7bf7')",
+      "created_by": "ObjectId('67ce75537489b4c86718a3ec')"
+    },
+        {
+          "title": "Cybersecurity Analyst",
+          "description": "Security",
+          "requirements": ["Ethical Hacking", "SIEM", "Network Security"],
+          "salary": 7,
+          "experienceLevel": 2,
+          "location": "Pune",
+          "jobType": "Experienced",
+          "positions": 6,
+          "company": "ObjectId('67ce76e6fa14c84bd3db7bf8')",
+          "created_by": "ObjectId('67ce75537489b4c86718a3ec')"
+        },
+        {
+          "title": "Mobile App Developer",
+          "description": "Android & iOS Development",
+          "requirements": ["Flutter", "Kotlin", "Swift"],
+          "salary": 6,
+          "experienceLevel": 1,
+          "location": "Kolkata",
+          "jobType": "Experienced",
+          "positions": 8,
+          "company": "ObjectId('67ce76e6fa14c84bd3db7bf9')",
+          "created_by": "ObjectId('67ce75537489b4c86718a3ec')"
+        },
+        {
+          "title": "AI/ML Engineer",
+          "description": "Artificial Intelligence & Machine Learning",
+          "requirements": ["Python", "Deep Learning", "NLP"],
+          "salary": 9,
+          "experienceLevel": 3,
+          "location": "Delhi",
+          "jobType": "Experienced",
+          "positions": 5,
+          "company": "ObjectId('67ce76e6fa14c84bd3db7bfa')",
+          "created_by": "ObjectId('67ce75537489b4c86718a3ec')"
+        },
+        {
+          "title": "Software Tester",
+          "description": "Quality Assurance",
+          "requirements": ["Selenium", "JMeter", "Automation Testing"],
+          "salary": 5,
+          "experienceLevel": 1,
+          "location": "Jaipur",
+          "jobType": "Freshers",
+          "positions": 7,
+          "company": "ObjectId('67ce76e6fa14c84bd3db7bfb')",
+          "created_by": "ObjectId('67ce75537489b4c86718a3ec')"
+        },
+        {
+          "title": "Blockchain Developer",
+          "description": "Decentralized Applications",
+          "requirements": ["Solidity", "Ethereum", "Hyperledger"],
+          "salary": 10,
+          "experienceLevel": 3,
+          "location": "Bangalore",
+          "jobType": "Experienced",
+          "positions": 4,
+          "company": "ObjectId('67ce76e6fa14c84bd3db7bfc')",
+          "created_by": "ObjectId('67ce75537489b4c86718a3ec')"
+        },
+        {
+          "title": "Game Developer",
+          "description": "Game Design & Development",
+          "requirements": ["Unity", "C#", "Unreal Engine"],
+          "salary": 7,
+          "experienceLevel": 2,
+          "location": "Mumbai",
+          "jobType": "Experienced",
+          "positions": 6,
+          "company": "ObjectId('67ce76e6fa14c84bd3db7bfd')",
+          "created_by": "ObjectId('67ce75537489b4c86718a3ec')"
+        },
+        {
+          "title": "Embedded Systems Engineer",
+          "description": "Hardware & Software Integration",
+          "requirements": ["C", "Microcontrollers", "IoT"],
+          "salary": 6,
+          "experienceLevel": 2,
+          "location": "Hyderabad",
+          "jobType": "Experienced",
+          "positions": 5,
+          "company": "ObjectId('67ce76e6fa14c84bd3db7bfe')",
+          "created_by": "ObjectId('67ce75537489b4c86718a3ec')"
+        }
+      
+      
+  ]
+  
