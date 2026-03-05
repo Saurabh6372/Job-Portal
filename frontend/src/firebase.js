@@ -5,14 +5,7 @@ import { getAnalytics } from "firebase/analytics";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC4ofQur7qezZxVraArFJSTMV7FF8NfzuE",
-  authDomain: "jobportal-ddfc9.firebaseapp.com",
-  projectId: "jobportal-ddfc9",
-  storageBucket: "jobportal-ddfc9.appspot.com", // Fixed storageBucket domain
-  messagingSenderId: "758047080345",
-  appId: "1:758047080345:web:24fd209a3a7aab2f499d08",
-  measurementId: "G-8Q1R5BJJG6",
-};
+ 
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
