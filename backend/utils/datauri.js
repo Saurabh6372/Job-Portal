@@ -1,15 +1,13 @@
-import DataUriParser from "datauri/parser.js"
-
-import path from "path";
-
+// Builds a base64 data URI from a multer in-memory file.
+// Replaces the `datauri` package, which pulled in a vulnerable `image-size`.
 const getDataUri = (file) => {
-    console.log("-----------------");
-    console.log(file.originalname);
-    const parser = new DataUriParser();
-    
-    const extName = path.extname(file.originalname).toString();
-    return parser.format(extName, file.buffer);
-    
-}
+    const mimetype = file.mimetype || "application/octet-stream";
+    const base64 = Buffer.from(file.buffer).toString("base64");
+    return {
+        mimetype,
+        base64,
+        content: `data:${mimetype};base64,${base64}`,
+    };
+};
 
 export default getDataUri;
